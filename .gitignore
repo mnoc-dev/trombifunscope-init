@@ -9,3 +9,6 @@ out/
 # Fichiers de projet des IDE : ils sont propres à un poste, pas au projet.
 .idea/
 *.iml
+
+
+sql/us3-jeu-essai
