@@ -12,3 +12,5 @@ out/
 
 
 sql/us3-jeu-essai.sql
+
+sql/01_create_database.sql
