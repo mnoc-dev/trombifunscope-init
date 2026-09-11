@@ -11,6 +11,14 @@ out/
 *.iml
 .project
 .classpath
+<<<<<<< HEAD
 **.sql
 sql/us3-jeu-essai.sql
+=======
+
+
+
+sql/01_create_database.sql
+**/us3-jeu-essai.sql
+>>>>>>> 8403e65945d1deb2383557de43d19654da9cccf8
 /bin/
